@@ -480,6 +480,10 @@ body{background:#fff;}
 		padding: 0 20px;
 	}
 
+	.spot {
+		height: 560px;
+	}
+
 	.section {
 		padding: 60px 0;
 	}
@@ -516,6 +520,7 @@ body{background:#fff;}
 
 	.project-item .thumb {
 		padding-top: 107%;
+		border-radius: 25px;
 	}
 
 	.project-item .info .info-name {
