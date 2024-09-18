@@ -19,7 +19,7 @@
     elementArea.each(function() {
       var arrDelay = $(this).find('[data-animate]');
       arrDelay.each(function(index, item) {
-        $(item).css('transition-delay', 0.25 + 's')
+        $(item).css('transition-delay', 0.3 + 's')
       })
     })
   }
